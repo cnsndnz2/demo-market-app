@@ -1,5 +1,4 @@
-import React, { useCallback, useEffect } from "react";
-import { useState } from "react/cjs/react.development";
+import React, { useCallback, useEffect, useState } from "react";
 import FilterPanelItem from "../../filter-panel-item";
 import Checkbox from "../checkbox";
 
