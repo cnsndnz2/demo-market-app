@@ -17,7 +17,7 @@ This is the demo app that you assigned to me. I should admit that the given task
 - Answer: This is my mistake I realized few hours ago before pushing the code. I could fix it by a minor sacrifice of performance but don't want to put it in code in this way.
 
 - Question 5: Why you didn't use any css or react component library?
-- I think that writing everything from scratch will be better for the demonstration of my skills. I am already skilled at ant design and bootstrap by the way.
+- Answer: I think that writing everything from scratch will be better for the demonstration of my skills. I am already skilled at ant design and bootstrap by the way.
 
 Thanks.
 
