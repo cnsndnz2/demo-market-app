@@ -13,8 +13,9 @@ export function getItems(page, sort, filters, itemTypeFilter, pageCount = 16) {
 		if (!filtersempty) {
 			items.forEach((itm) => {
 				let itemMeets = true;
-				for (let fi = 0; fi < filters.length; fi++) {
-					const field = filters[fi];
+				const filterKeys = Object.keys(filters);
+				for (let fi = 0; fi < filterKeys.length; fi++) {
+					const field = filterKeys[fi];
 					const isArray = Array.isArray(itm[field]);
 					if (isArray && !hasSharedValues(itm[field], filters[field])) {
 						itemMeets = false;
