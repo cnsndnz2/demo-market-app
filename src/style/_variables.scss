@@ -1,0 +1,45 @@
+// theme colors
+$white: #fff;
+$body-background: #FAFAFA;
+$primary: #1EA4CE;
+$primary-dark: #147594;
+$primary-passive: #F2F0FD;
+$disabled-bg: rgb(206, 206, 206);
+$disabled-color: darken($disabled-bg, 15%);
+
+// Text
+$text-color-title: #6F6F6F;
+$text-color-base: #697488;
+$text-color: #525252;
+$text-color-dark: #191919;
+
+// Input
+$input-base-size: 48px;
+
+// Spacing
+$spaces: (
+	size-1: 6px,
+	size-2: 12px,
+	size-3: 16px,
+	size-4: 20px,
+	size-5: 24px,
+);
+//Borders
+$border-base-color: #F3F0FE;
+$border-radius-base: 2px;
+$radio-border-color: #DFDEE2;
+
+// Shadow
+$box-shadow-base: 0px 4px 24px rgba(93, 62, 188, 0.04);
+
+// Fonts
+$font-family-base: "Open-Sans";
+$font-size-base: 14px;
+
+// Breakpoints
+$breakpoints: (
+  xs: 576px,
+  sm: 768px,
+  md: 992px,
+  lg: 1200px
+);

@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# Getting Started with My Demo App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello. 
+
+This is the demo app that you assigned to me. I should admit that the given task is maybe the most closest thing to real world programming that I've experienced until today. Thanks for being so careful about hiring :) . I provide some comments about possible features and excuses in the code also I tried to answer some of your possible questions below.
+
+- Question 1: Why you didn't use Css in Js such as styled components and etc.? 
+- Answer: First of all I am not the best person about styling something from scratch :smile: I can describe myself for styling as a loyal interpreter and I have a hidden love with css. I am a little bit obsessive about performance and Css in Js libs can't be faster than pure css for now. Of course writing css in js makes lots of things easier but I am a kind of a person who still enjoys with the challenges of writing css. But I believe that there is a long and enjoyful way to go about Css/Scss for me. :)
+
+- Question 2: Why did you use [@reduxjs/toolkit](https://redux-toolkit.js.org/)?
+- In the past I usually used pure redux with redux-thunk. After meeting with Reduxjs Toolkit I decided that it makes the code much more cleaner and understandable and that is why I preferred it.
+
+- Question 3: Why you didn't use provided Manufacturer.js file?
+- I just want to develop a filter algorithm from the provided products which doesn't need any information other than product data.
+
+- Qustion 4: Why you didn't add the product count's in the filters pane? (It stays at the right side of the name of the filter option)
+- This is my mistake I realized few hours ago before pushing the code. I could fix it by a minor sacrifice of performance but don't want to put it in code in this way.
+
+Thanks.
 
 ## Available Scripts
 

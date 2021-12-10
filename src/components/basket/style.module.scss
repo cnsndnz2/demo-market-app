@@ -1,0 +1,15 @@
+@import "../../style/variables";
+.totalprice {
+	margin-top: auto;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	background-color: $white;
+}
+
+.pricebox {
+	border: 2px solid $primary;
+	padding: map-get($spaces, "size-2") map-get($spaces, "size-3");
+	border-radius: $border-radius-base;
+	font-weight: 500;
+}

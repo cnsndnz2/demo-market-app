@@ -1,0 +1,21 @@
+.product-list {
+	list-style: none;
+	display: flex;
+	flex-wrap: wrap;
+
+	:global {
+		.gtr-product-card {
+			height: auto;
+			box-sizing: border-box;
+			flex: 25%;
+		}
+	}
+
+	.hidden-flex-item {
+		box-sizing: border-box;
+		content: "";
+		flex: 25%;
+		height: 0;
+		visibility: hidden;
+	}
+}
