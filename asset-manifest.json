@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/demo-market-app/static/css/main.3080e942.chunk.css",
-    "main.js": "/demo-market-app/static/js/main.48618bba.chunk.js",
-    "main.js.map": "/demo-market-app/static/js/main.48618bba.chunk.js.map",
+    "main.js": "/demo-market-app/static/js/main.e5e1c4bb.chunk.js",
+    "main.js.map": "/demo-market-app/static/js/main.e5e1c4bb.chunk.js.map",
     "runtime-main.js": "/demo-market-app/static/js/runtime-main.3b9bf030.js",
     "runtime-main.js.map": "/demo-market-app/static/js/runtime-main.3b9bf030.js.map",
-    "static/js/2.3a71c173.chunk.js": "/demo-market-app/static/js/2.3a71c173.chunk.js",
-    "static/js/2.3a71c173.chunk.js.map": "/demo-market-app/static/js/2.3a71c173.chunk.js.map",
+    "static/js/2.7e2e2b58.chunk.js": "/demo-market-app/static/js/2.7e2e2b58.chunk.js",
+    "static/js/2.7e2e2b58.chunk.js.map": "/demo-market-app/static/js/2.7e2e2b58.chunk.js.map",
     "index.html": "/demo-market-app/index.html",
     "static/css/main.3080e942.chunk.css.map": "/demo-market-app/static/css/main.3080e942.chunk.css.map",
-    "static/js/2.3a71c173.chunk.js.LICENSE.txt": "/demo-market-app/static/js/2.3a71c173.chunk.js.LICENSE.txt"
+    "static/js/2.7e2e2b58.chunk.js.LICENSE.txt": "/demo-market-app/static/js/2.7e2e2b58.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3b9bf030.js",
-    "static/js/2.3a71c173.chunk.js",
+    "static/js/2.7e2e2b58.chunk.js",
     "static/css/main.3080e942.chunk.css",
-    "static/js/main.48618bba.chunk.js"
+    "static/js/main.e5e1c4bb.chunk.js"
   ]
 }
