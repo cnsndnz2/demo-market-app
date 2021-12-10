@@ -8,13 +8,16 @@ This is the demo app that you assigned to me. I should admit that the given task
 - Answer: First of all I am not the best person about styling something from scratch :smile: I can describe myself for styling as a loyal interpreter and I have a hidden love with css. I am a little bit obsessive about performance and Css in Js libs can't be faster than pure css for now. Of course writing css in js makes lots of things easier but I am a kind of a person who still enjoys with the challenges of writing css. But I believe that there is a long and enjoyful way to go about Css/Scss for me. :)
 
 - Question 2: Why did you use [@reduxjs/toolkit](https://redux-toolkit.js.org/)?
-- In the past I usually used pure redux with redux-thunk. After meeting with Reduxjs Toolkit I decided that it makes the code much more cleaner and understandable and that is why I preferred it.
+- Answer: In the past I usually used pure redux with redux-thunk. After meeting with Reduxjs Toolkit I decided that it makes the code much more cleaner and understandable and that is why I preferred it.
 
 - Question 3: Why you didn't use provided Manufacturer.js file?
-- I just want to develop a filter algorithm from the provided products which doesn't need any information other than product data.
+- Answer: I just want to develop a filter algorithm from the provided products which doesn't need any information other than product data.
 
-- Qustion 4: Why you didn't add the product count's in the filters pane? (It stays at the right side of the name of the filter option)
-- This is my mistake I realized few hours ago before pushing the code. I could fix it by a minor sacrifice of performance but don't want to put it in code in this way.
+- Question 4: Why you didn't add the product count's in the filters pane? (It stays at the right side of the name of the filter option)
+- Answer: This is my mistake I realized few hours ago before pushing the code. I could fix it by a minor sacrifice of performance but don't want to put it in code in this way.
+
+- Question 5: Why you didn't use any css or react component library?
+- I think that writing everything from scratch will be better for the demonstration of my skills. I am already skilled at ant design and bootstrap by the way.
 
 Thanks.
 
