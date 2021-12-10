@@ -1,6 +1,6 @@
 {
   "name": "demo-app",
-  "homepage": "http://cnsndnz2.github.io/market-demo-app",
+  "homepage": "http://cnsndnz2.github.io/demo-market-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
