@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/demo-market-app/static/css/main.3080e942.chunk.css",
-    "main.js": "/demo-market-app/static/js/main.e5e1c4bb.chunk.js",
-    "main.js.map": "/demo-market-app/static/js/main.e5e1c4bb.chunk.js.map",
+    "main.js": "/demo-market-app/static/js/main.c1e6c9d9.chunk.js",
+    "main.js.map": "/demo-market-app/static/js/main.c1e6c9d9.chunk.js.map",
     "runtime-main.js": "/demo-market-app/static/js/runtime-main.3b9bf030.js",
     "runtime-main.js.map": "/demo-market-app/static/js/runtime-main.3b9bf030.js.map",
     "static/js/2.7e2e2b58.chunk.js": "/demo-market-app/static/js/2.7e2e2b58.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3b9bf030.js",
     "static/js/2.7e2e2b58.chunk.js",
     "static/css/main.3080e942.chunk.css",
-    "static/js/main.e5e1c4bb.chunk.js"
+    "static/js/main.c1e6c9d9.chunk.js"
   ]
 }
